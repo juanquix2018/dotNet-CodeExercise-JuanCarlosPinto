@@ -1,0 +1,12 @@
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\Juan.Students.Contracts.dll.config
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\Juan.Students.Contracts.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\Juan.Students.Contracts.pdb
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\Juan.Students.Entities.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\Juan.Students.Entities.pdb
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\obj\Debug\Juan.Students.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\obj\Debug\Juan.Students.Contracts.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Contracts\obj\Debug\Juan.Students.Contracts.pdb

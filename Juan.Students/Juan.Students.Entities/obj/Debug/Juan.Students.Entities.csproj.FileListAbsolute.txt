@@ -1,0 +1,9 @@
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\bin\Debug\Juan.Students.Entities.dll.config
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\bin\Debug\Juan.Students.Entities.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\bin\Debug\Juan.Students.Entities.pdb
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\bin\Debug\EntityFramework.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\bin\Debug\EntityFramework.xml
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\obj\Debug\Juan.Students.Entities.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Entities\obj\Debug\Juan.Students.Entities.pdb

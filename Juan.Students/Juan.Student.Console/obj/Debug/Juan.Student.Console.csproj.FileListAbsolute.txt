@@ -1,0 +1,10 @@
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\bin\Debug\Juan.Student.Console.exe.config
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\bin\Debug\Juan.Student.Console.exe
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\bin\Debug\Juan.Student.Console.pdb
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\bin\Debug\EntityFramework.dll
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\bin\Debug\EntityFramework.xml
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\obj\Debug\Juan.Student.Console.csprojResolveAssemblyReference.cache
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\obj\Debug\Juan.Student.Console.exe
+c:\users\juancarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\obj\Debug\Juan.Student.Console.pdb

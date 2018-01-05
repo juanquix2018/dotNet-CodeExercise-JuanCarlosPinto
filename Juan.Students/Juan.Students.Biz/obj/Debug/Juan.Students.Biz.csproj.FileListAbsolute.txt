@@ -1,0 +1,16 @@
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Biz.dll.config
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Biz.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Biz.pdb
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\EntityFramework.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Context.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Contracts.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Entities.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Context.pdb
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Contracts.pdb
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\Juan.Students.Entities.pdb
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\EntityFramework.xml
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\obj\Debug\Juan.Students.Biz.csprojResolveAssemblyReference.cache
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\obj\Debug\Juan.Students.Biz.dll
+C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Students.Biz\obj\Debug\Juan.Students.Biz.pdb
