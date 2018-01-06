@@ -16,3 +16,6 @@ C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Stu
 C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\obj\Debug\Juan.Students.Consol.csprojResolveAssemblyReference.cache
 C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\obj\Debug\Juan.Student.Console.exe
 C:\Users\JuanCarlos\documents\visual studio 2015\Projects\Juan.Students\Juan.Student.Console\obj\Debug\Juan.Student.Console.pdb
+D:\Repositorio\gitHub\dotNet-CodeExercise-JuanCarlosPinto\Juan.Students\Juan.Student.Console\bin\Debug\Juan.Student.Console.exe.config
+D:\Repositorio\gitHub\dotNet-CodeExercise-JuanCarlosPinto\Juan.Students\Juan.Student.Console\obj\Debug\Juan.Student.Console.exe
+D:\Repositorio\gitHub\dotNet-CodeExercise-JuanCarlosPinto\Juan.Students\Juan.Student.Console\obj\Debug\Juan.Student.Console.pdb
